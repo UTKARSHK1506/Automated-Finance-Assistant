@@ -25,7 +25,6 @@ An **AI-powered personal finance assistant** built using **Streamlit** that anal
 
 ## 📂 Project Structure
 
-
 ```text
 ├── Finance.py               # Main Streamlit app
 ├── requirements.txt         # Dependencies
@@ -34,6 +33,4 @@ An **AI-powered personal finance assistant** built using **Streamlit** that anal
 ├── README.md
 ├── .gitignore
 
-
-
-
+**Hello**

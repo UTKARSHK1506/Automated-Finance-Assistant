@@ -10,6 +10,7 @@ An **AI-powered personal finance assistant** built using **Streamlit** that anal
 - 📊 Automatic expense categorization & visual breakdown
 - 🔮 Potential Savings Predictor 
 - 🤖 AI-powered financial advisor chatbot (Indian finance context)
+  
 
 ---
 
@@ -20,7 +21,7 @@ An **AI-powered personal finance assistant** built using **Streamlit** that anal
 3. A predictive model estimates **optimizable spending**
 4. Results are visualized for easy understanding
 5. AI chatbot explains insights and answers user questions
-   
+6. GROQ API used for Chatbot
 
 
 ## 📂 Project Structure
@@ -32,5 +33,3 @@ An **AI-powered personal finance assistant** built using **Streamlit** that anal
 ├── train_model.py           # Model training script
 ├── README.md
 ├── .gitignore
-
-**Hello**
